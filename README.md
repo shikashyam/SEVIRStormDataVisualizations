@@ -4,3 +4,6 @@ The SEVIR Dataset is a Storm Event Imagery Dataset for Deep Learning Application
 It contains images of 384km x 384km stretches sampled over US soil and consists of 4 hours of data in 5 minute intervals.
 
 We look at SEVIR data on a holistic level by bringing the data catalog, Storm Details, Storm Fatalities and Storm locations files for the year 2019 onto Google Data Studio. We will be making use of Google Data Studio to create interactive and informative dashboards based on the results of our preliminary analysis on BigQuery.
+
+The link to the actual dashboard is - https://datastudio.google.com/reporting/4509fa74-dec5-4e4e-a370-39d8ffb56571.
+Additionally, there is a PDF version here in this repo for easy access.
